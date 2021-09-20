@@ -13,6 +13,6 @@ public class Client {
                                         .mainBoard("b50爆破弹")
                                         .build();
         System.out.println("computer="+computer);
-        System.out.println();
+        System.out.println("is my test");
     }
 }
