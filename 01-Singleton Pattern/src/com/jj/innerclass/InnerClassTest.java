@@ -1,14 +1,13 @@
-package com.jj.hungryman;
+package com.jj.innerclass;
 
 /**
  * @author 张俊杰
  * @date 2021/9/20  - {TIME}
  */
-public class HungryManTest {
+public class InnerClassTest {
     public static void main(String[] args) {
         Singleton singleton1 = Singleton.getSingleton();
         Singleton singleton2 = Singleton.getSingleton();
-
         /*
             singleton1 = 1360875712
             singleton2 = 1360875712
