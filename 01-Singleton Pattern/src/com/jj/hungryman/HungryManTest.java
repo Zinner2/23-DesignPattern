@@ -15,5 +15,6 @@ public class HungryManTest {
         */
         System.out.println("singleton1 = " + singleton1.hashCode());
         System.out.println("singleton2 = " + singleton2.hashCode());
+        System.out.println();
     }
 }
