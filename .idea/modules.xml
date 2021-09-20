@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-Singleton Pattern/01-Singleton Pattern.iml" filepath="$PROJECT_DIR$/01-Singleton Pattern/01-Singleton Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Prototype Pattern/02-Prototype Pattern.iml" filepath="$PROJECT_DIR$/02-Prototype Pattern/02-Prototype Pattern.iml" />
     </modules>
   </component>
 </project>
