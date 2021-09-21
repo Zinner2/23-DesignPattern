@@ -1,6 +1,6 @@
 # 23-设计模式 DesignPattern
 23种设计模式
-# 01-单例模式 Sing0leton Pattern
+# 01-单例模式 Singleton Pattern
 ## A.恶汉模式(推荐使用)
 创建步骤:</br>
   1.构造方法私有化</br>
