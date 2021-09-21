@@ -8,11 +8,11 @@ public class Client {
 
     public static void main(String[] args) {
         ComputerStore computerStore = new ComputerStore();
-        Computer computer = computerStore.orderComputer("DELL");
+        Computer computer = computerStore.orderComputer("REDMI");
         System.out.println(computer);
-        System.out.println(computer.getCpu());
-        System.out.println(computer.getDarkDisk());
-        System.out.println(computer.getMainBord());
-        System.out.println(computer.getMemory());
+        System.out.println("CPU = "+computer.getCpu());
+        System.out.println("DarkDisk = "+computer.getDarkDisk());
+        System.out.println("MainBord = "+computer.getMainBord());
+        System.out.println("Memory = "+computer.getMemory());
     }
 }
