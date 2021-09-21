@@ -11,17 +11,17 @@ public class DellComputer extends Computer {
         System.out.println("安装了 i7-9100K");
     }
     public void buildMainBord(){
-        this.setCpu("B50爆破弹");
+        this.setMainBord("B50爆破弹");
         System.out.println("安装了 B50爆破弹");
     }
 
     public void buildDarkDisk(){
-        this.setCpu("西数550");
+        this.setDarkDisk("西数550");
         System.out.println("安装了 西数550");
     }
 
     public void buildMemory(){
-        this.setCpu("金士顿 32G");
+        this.setMemory("金士顿 32G");
         System.out.println("安装了 金士顿 32G");
     }
 

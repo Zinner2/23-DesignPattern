@@ -49,4 +49,13 @@ public abstract class Computer {
      */
     public abstract Computer createComputer();
 
+    @Override
+    public String toString() {
+        return "Computer{" +
+                "cpu='" + cpu + '\'' +
+                ", mainBord='" + mainBord + '\'' +
+                ", darkDisk='" + darkDisk + '\'' +
+                ", memory='" + memory + '\'' +
+                '}';
+    }
 }
