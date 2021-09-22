@@ -14,12 +14,14 @@ public class RedMiComputerFactory implements ComputerFactory {
 
     @Override
     public Computer createComputer() {
-        RedMiComputer redMiComputer = new RedMiComputer();
-        redMiComputer.buildCpu();
-        redMiComputer.buildDarkDisk();
-        redMiComputer.buildGraphicsCard();
-        redMiComputer.buildMemory();
-        redMiComputer.buildMainBord();
+        RedMiComputer redMiComputer = new RedMiComputer.Builder()
+                                                       .buildCpu("Intel 酷睿i7 10750H")
+                                                       .buildDarkDisk("PCI-e SSD固态硬盘")
+                                                       .buildMemory("DDR4 2933 32G")
+                                                       .buildGraphicsCard("GTX 3060Ti")
+                                                       .buildMainBord("B50爆破弹")
+                                                       .builder();
+
         return redMiComputer;
     }
 
