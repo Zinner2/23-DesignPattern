@@ -19,7 +19,7 @@ public class DellComputerFactory implements ComputerFactory {
                                                     .buildMainBord("B50爆破弹")
                                                     .buildDarkDisk("西数550")
                                                     .buildMemory("金士顿 32G")
-                                                    .buildGraphicsCard("buildGraphicsCard")
+                                                    .buildGraphicsCard("GTX 1660Ti")
                                                     .builder();
         return dellComputer;
     }
@@ -29,7 +29,7 @@ public class DellComputerFactory implements ComputerFactory {
         DellPhone dellPhone = new DellPhone.Builder()
                                            .builderCpu("高通骁龙855")
                                            .builderMemory("运行内存8GB")
-                                           .builderScreen("Super AMOLED")
+                                           .builderScreen("144HZ")
                                            .builderSize("6.2英寸")
                                            .builder();
         return dellPhone;

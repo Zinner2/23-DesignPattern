@@ -21,10 +21,7 @@ public class Client {
         //购买手机
         Phone phone = computerFactory.createPhone();
 
-        System.out.println("=========电脑生产中==========");
         System.out.println(computer);
-
-        System.out.println("=========手机生产中==========");
         System.out.println(phone);
 
     }

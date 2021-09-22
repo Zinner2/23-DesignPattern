@@ -12,7 +12,6 @@ public class Client {
 
         //ComputerFactory computerFactory = new DellComputerFactory();
         ComputerFactory computerFactory = new RedMiComputerFactory();
-
         computerStore.setComputerFactory(computerFactory);
 
         Computer computer = computerStore.orderComputer();
