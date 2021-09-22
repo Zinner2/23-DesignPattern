@@ -1,4 +1,4 @@
-package com.jj;
+package com.jj.store;
 
 import com.jj.entity.Computer;
 import com.jj.entity.Phone;

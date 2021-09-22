@@ -4,6 +4,7 @@ import com.jj.entity.Computer;
 import com.jj.entity.Phone;
 import com.jj.factory.ComputerFactory;
 import com.jj.factory.impl.DellComputerFactory;
+import com.jj.store.ComputerStore;
 
 /**
  * @author 张俊杰
