@@ -14,12 +14,13 @@ public class DellComputerFactory implements ComputerFactory {
 
     @Override
     public Computer createComputer() {
-        DellComputer dellComputer = new DellComputer();
-        dellComputer.buildCpu();
-        dellComputer.buildDarkDisk();
-        dellComputer.buildGraphicsCard();
-        dellComputer.buildMemory();
-        dellComputer.buildMainBord();
+        DellComputer dellComputer = new DellComputer.Builder()
+                                                    .buildCpu("i7-9100K")
+                                                    .buildMainBord("B50爆破弹")
+                                                    .buildDarkDisk("西数550")
+                                                    .buildMemory("金士顿 32G")
+                                                    .buildGraphicsCard("buildGraphicsCard")
+                                                    .builder();
         return dellComputer;
     }
 

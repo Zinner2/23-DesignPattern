@@ -13,19 +13,13 @@ import com.jj.store.ComputerStore;
 public class Client {
 
     public static void main(String[] args) {
-        // 生成电脑商店对象
-        ComputerStore computerStore = new ComputerStore();
 
         // 生成电脑工厂对象
          ComputerFactory computerFactory = new DellComputerFactory();
-        // 用户进入红米线下店
-//        ComputerFactory computerFactory = new RedMiComputerFactory();
-
-        computerStore.setComputerFactory(computerFactory);
         //购买电脑
-        Computer computer = computerStore.orderComputer();
+        Computer computer = computerFactory.createComputer();
         //购买手机
-        Phone phone = computerStore.orderPhone();
+        Phone phone = computerFactory.createPhone();
 
         System.out.println("=========电脑生产中==========");
         System.out.println(computer);
