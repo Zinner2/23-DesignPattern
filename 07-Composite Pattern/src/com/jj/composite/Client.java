@@ -6,6 +6,7 @@ package com.jj.composite;
  */
 public class Client {
     public static void main(String[] args) {
+
         MenuComponent menu1 = new Menu("用户管理",2);
                     MenuItem menuItem = new MenuItem("添加用户",3);
                     menu1.add(menuItem);
