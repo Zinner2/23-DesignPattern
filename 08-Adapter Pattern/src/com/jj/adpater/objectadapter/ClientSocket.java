@@ -5,7 +5,7 @@ package com.jj.adpater.objectadapter;
  * @author 张俊杰
  * @date 2021/9/24  - {TIME}
  */
-public class ClientSocket {
+public  class ClientSocket {
     private UsbService usbService;
     public ClientSocket(UsbService usbService){
         this.usbService = usbService;
@@ -13,5 +13,4 @@ public class ClientSocket {
     public void use(){
         usbService.useUsb();
     }
-
 }
