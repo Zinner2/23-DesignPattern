@@ -54,3 +54,5 @@
 ## 05-工厂方法 Factory Method
 
 ## 06-抽象工厂 Abstract Factory
+## 07-组合模式 Composite Pattern
+## 08-适配器模式 Adapter Pattern
