@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/09-Bridge Pattern/09-Bridge Pattern.iml" filepath="$PROJECT_DIR$/09-Bridge Pattern/09-Bridge Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Decorator Pattern/10-Decorator Pattern.iml" filepath="$PROJECT_DIR$/10-Decorator Pattern/10-Decorator Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Facade Pattern/11-Facade Pattern.iml" filepath="$PROJECT_DIR$/11-Facade Pattern/11-Facade Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-FlyWeight Pattern/12-FlyWeight Pattern.iml" filepath="$PROJECT_DIR$/12-FlyWeight Pattern/12-FlyWeight Pattern.iml" />
     </modules>
   </component>
 </project>
