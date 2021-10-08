@@ -1,6 +1,8 @@
 package com.jj.iterator;
 
 
+import java.util.*;
+
 /**
  * @author 张俊杰
  * @date 2021/10/7  - {TIME}
@@ -19,5 +21,10 @@ public class Client {
         while (studentIterator.hasNext()){
             System.out.println(studentIterator.next());
         }
+
     }
+
+
+
+
 }

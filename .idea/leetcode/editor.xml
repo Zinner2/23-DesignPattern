@@ -12,6 +12,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../1.java基础/数据结构与算法/code/leetcode/editor/cn/[20]有效的括号.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../1.java基础/数据结构与算法/code/leetcode/editor/cn/doc/content/[20]有效的括号.md" />
+              <option name="path" value="$PROJECT_DIR$/../../1.java基础/数据结构与算法/code/leetcode/editor/cn/[20]有效的括号.java" />
+              <option name="questionId" value="20" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../1.java基础/数据结构与算法/code/leetcode/editor/cn/[22]括号生成.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../1.java基础/数据结构与算法/code/leetcode/editor/cn/doc/content/[22]括号生成.md" />
+              <option name="path" value="$PROJECT_DIR$/../../1.java基础/数据结构与算法/code/leetcode/editor/cn/[22]括号生成.java" />
+              <option name="questionId" value="22" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

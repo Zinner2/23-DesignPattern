@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/12-FlyWeight Pattern/12-FlyWeight Pattern.iml" filepath="$PROJECT_DIR$/12-FlyWeight Pattern/12-FlyWeight Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/13-Observe Pattern/13-Observe Pattern.iml" filepath="$PROJECT_DIR$/13-Observe Pattern/13-Observe Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/14-Iterator Pattern/14-Iterator Pattern.iml" filepath="$PROJECT_DIR$/14-Iterator Pattern/14-Iterator Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-Visitor Pattern/15-Visitor Pattern.iml" filepath="$PROJECT_DIR$/15-Visitor Pattern/15-Visitor Pattern.iml" />
     </modules>
   </component>
 </project>
