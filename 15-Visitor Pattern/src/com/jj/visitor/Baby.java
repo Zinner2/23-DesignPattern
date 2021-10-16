@@ -13,6 +13,6 @@ public class Baby implements Visitor {
 
     @Override
     public void visit(Tiger tiger) {
-        System.out.println("Baby 正在看 tiger");
+    System.out.println("Baby 正在看 tiger2");
     }
 }
