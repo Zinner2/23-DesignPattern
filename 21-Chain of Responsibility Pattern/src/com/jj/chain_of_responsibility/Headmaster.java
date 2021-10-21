@@ -1,6 +1,7 @@
 package com.jj.chain_of_responsibility;
 
 /**
+ * 校长
  * @author 张俊杰
  * @date 2021/10/20  - {TIME}
  */
@@ -15,7 +16,7 @@ public class Headmaster extends Approver {
         if(request.getPrice() > 4000 && request.getPrice() < 10000){
             System.out.println("请求编号 " +request.getId() + "被"+this.name+"处理");
         }else{
-            System.out.println("");
+            System.out.println("请求金额太大,无法处理");
         }
     }
 }
