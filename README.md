@@ -3,7 +3,7 @@
 ##  <a href="https://github.com/Zinner2/23-DesignPattern/tree/master/01-Singleton%20Pattern">01-单例模式 Singleton Pattern</a>
 ##  <a href="https://github.com/Zinner2/23-DesignPattern/tree/master/02-Prototype%20Pattern">02-原型模式 Prototype Pattern</a>
 ## <a href="https://github.com/Zinner2/23-DesignPattern/tree/master/03-Builder%20Pattern">03-建造者模式 Builder Pattern</a>
-## <a href="https://github.com/Zinner2/23-DesignPattern/tree/master/04-Simple%20Pattern">04-简单工厂 Simple Factory</a>
+## <a href="https://github.com/Zinner2/23-DesignPattern/tree/master/04-Simple%20Factory">04-简单工厂 Simple Factory</a>
 ## <a href="https://github.com/Zinner2/23-DesignPattern/tree/master/05-Factory%20Pattern">05-工厂方法 Factory Method</a>
 ## <a href="https://github.com/Zinner2/23-DesignPattern/tree/master/06-Abstract%20Pattern">06-抽象工厂 Abstract Factory</a>
 ## <a href="https://github.com/Zinner2/23-DesignPattern/tree/master/07-Composite%20Pattern">07-组合模式 Composite Pattern</a>
