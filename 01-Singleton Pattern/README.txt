@@ -1,4 +1,4 @@
- 01-单例模式 Singleton Pattern
+01-单例模式 Singleton Pattern
 A.恶汉模式(推荐使用)
 创建步骤:</br>
   1.构造方法私有化</br>
